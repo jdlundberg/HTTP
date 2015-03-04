@@ -1,0 +1,2 @@
+org.quickconnectfamily.json.JSONUtilities
+org.quickconnectfamily.json.JSONUtilities$encoding
